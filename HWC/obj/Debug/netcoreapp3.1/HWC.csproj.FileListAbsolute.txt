@@ -1,0 +1,13 @@
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\bin\Debug\netcoreapp3.1\HWC.exe
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\bin\Debug\netcoreapp3.1\HWC.deps.json
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\bin\Debug\netcoreapp3.1\HWC.runtimeconfig.json
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\bin\Debug\netcoreapp3.1\HWC.runtimeconfig.dev.json
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\bin\Debug\netcoreapp3.1\HWC.dll
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\bin\Debug\netcoreapp3.1\HWC.pdb
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.csprojAssemblyReference.cache
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.AssemblyInfoInputs.cache
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.AssemblyInfo.cs
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.csproj.CoreCompileInputs.cache
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.dll
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.pdb
+C:\Users\kajack\Documents\GitHub Projects\HelloWorld\HWC\HWC\obj\Debug\netcoreapp3.1\HWC.genruntimeconfig.cache
